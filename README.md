@@ -17,6 +17,7 @@ Day 2:Study of HTML
 <button type="button" onclick="myFun()">Try It</button>
 </body>
 </html>
+//Detail 
 
 
 
